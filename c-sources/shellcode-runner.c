@@ -1,6 +1,9 @@
 /***
-This code only for educational purpose. I am not responsible if you misuse it. 
+This code is only for educational purposes. I am not responsible if you misuse it. 
 If you compile this code, calc.exe will be executed.
+
+Author: Jobyer Ahmed
+Web: rednode.com, jobyer.me
 ***/
 #include <windows.h>
 
